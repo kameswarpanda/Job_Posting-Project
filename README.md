@@ -54,7 +54,7 @@ This project is a simple Job Posting API built using Spring Boot. The API provid
     - **User Name**: `sa`
     - **Password**: Leave it blank.
   
-   ![H2 Login Screenshot](image.png)
+   ![H2 Login Screenshot](H2connect.jpg)
 
 2. **Access Swagger API Documentation:**
 
