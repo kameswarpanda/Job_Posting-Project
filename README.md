@@ -61,6 +61,7 @@ This project is a simple Job Posting API built using Spring Boot. The API provid
     - Swagger UI is available at: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) or [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
     - Swagger provides a user-friendly interface to interact with the API, view available endpoints, and test API calls.
 
+    ![Swagger APi Documnetation Screenshot](swagger.png)
 ## How to Use the API
 
 Here’s how you can use the API to manage job postings:
